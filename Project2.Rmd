@@ -1,0 +1,35 @@
+---
+title: "Project 2"
+author: "Hayley Greco"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+# load in libraries
+library(tidyverse)
+library(knitr)
+
+# specify location of ZIP file
+zip_file <- "~/Downloads/data-7.zip"
+
+# extract ZIP file contents
+unzip(zip_file, exdir = getwd())
+
+# check that CSV files are there
+list.files("data")
+```
+
+
+
+```{r cars}
+summary(cars)
+```
+
+
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+
