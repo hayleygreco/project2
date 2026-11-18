@@ -367,3 +367,8 @@ Monthly CO concentrations were generally highest during the colder months, parti
 
 ## AI Use Statement
 I used Microsoft Copilot to assist with code development for this project. I provided the assignment instructions and a detailed list of specifications. Based on these inputs, Copilot generated draft R code, which I reviewed, tested, and modified as needed. I independently verified the code's accuracy, corrected any issues, and made revisions to ensure that the final output document met the project requirements.
+
+&nbsp;
+
+## GitHub Repository
+The code and project files are available on GitHub: [Project 2 Repository] (https://github.com/hayleygreco/project2).
