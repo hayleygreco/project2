@@ -356,12 +356,12 @@ plot2
 
 &nbsp;
 
-A line graph was selected to display monthly PM2.5 concentrations because it highlights changes over time and allows seasonal patterns to be compared across years. Each year is represented by a different colored line, with the 2020 line ending in April because data were only available for the first four months of that year.
+I chose to display monthly PM2.5 concentrations using a line graph because it highlights changes over time and allows seasonal patterns to be compared across years. Each year is represented by a different colored line, with the 2020 line ending in April because data were only available for the first four months of that year.
 
 \pagebreak
 
 ## Interpretation
-Monthly CO concentrations were generally highest during the colder months, particularly November through January, and lowest during late spring and summer. In contrast, ozone concentrations were highest during late spring and summer, peaking in June, and lowest during the winter. PM2.5 concentrations varied across months and years, allowing seasonal patterns and differences between years to be compared.
+CO concentrations were generally higher during the colder months, especially November through January, while ozone concentrations were higher during the warmer months and peaked in June. PM2.5 concentrations varied across months and years, with 2018 showing higher concentrations during the summer and winter and 2019 showing higher concentrations earlier in the year. The yearly summaries also showed that 2019 had the highest maximum CO concentration and 2020 had the highest maximum PM2.5 concentration, although 2020 only included data from January through April, making full-year comparisons difficult.
 
 &nbsp;
 
